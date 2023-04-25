@@ -1,0 +1,123 @@
+[
+    {
+        "categoria": "php",
+        "pregunta": "¿Cómo se puede implementar un ciclo 'foreach' en PHP?",
+        "respuesta": "foreach ($array as $valor)",
+        "incorrecta1": "foreach ($valor as $array",
+        "incorrecta2": "$array (foreach as $valor",
+        "incorrecta3": "$valor ($array as foreach\r",
+        "imagen":"PHP.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "php",
+        "pregunta": "¿Cuál es la diferencia entre 'require' y 'include' en PHP?",
+        "respuesta": "'require' genera un error fatal si el archivo no se encuentra, mientras que 'include' solo genera una advertencia",
+        "incorrecta1": "'include' genera un error fatal si el archivo no se encuentra, mientras que 'require' solo genera una advertencia",
+        "incorrecta2": "hola mundo",
+        "incorrecta3": "include es para incluir un archivo php y require no \r",
+        "imagen":"PHP.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "php",
+        "pregunta": "¿Cómo se maneja una excepción en PHP?",
+        "respuesta": "En PHP, las excepciones se manejan utilizando bloques try-catch",
+        "incorrecta1": "En PHP, las excepciones se manejan utilizando bloques catch",
+        "incorrecta2": "En PHP, las excepciones se manejan utilizando bloques define",
+        "incorrecta3": "En PHP, las excepciones se manejan utilizando bloques echo \r",
+        "imagen":"PHP.png",
+
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "php",
+        "pregunta": "¿que es php?",
+        "respuesta": "un lenguaje de programacion",
+        "incorrecta1": "una funcion de html para operadores logicos",
+        "incorrecta2": "es un if escrito en php",
+        "imagen":"PHP.png",
+        "incorrecta3": "para meterle vainas al html \r",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "php",
+        "pregunta": "¿cuales de estos es un lenguaje de programacion?",
+        "respuesta": "php",
+        "incorrecta1": "css",
+        "incorrecta2": "html",
+        "incorrecta3": "xamp \r",
+        "imagen":"PHP.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "php",
+        "pregunta": "¿para que sirve echo?",
+        "respuesta": "para imprimir datos en pantallas",
+        "incorrecta1": "para decir hola mundo",
+        "incorrecta2": "para declarar una variable",
+        "incorrecta3": "para generar una funcion \r",
+        "imagen":"PHP.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "php",
+        "pregunta": "¿para que sirve el signo '$'?",
+        "respuesta": "para declarar una variable",
+        "incorrecta1": "una funcion de html para operadores logicos",
+        "incorrecta2": "this is my frist page in php",
+        "incorrecta3": "para declarar una constante \r",
+        "imagen":"PHP.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "php",
+        "pregunta": "¿que es un string?",
+        "respuesta": "una variable para una secuencia de caracteres",
+        "incorrecta1": "una variable de html para operadores logicos",
+        "incorrecta2": "una variable para comprender agrupaciones de datos",
+        "incorrecta3": "una variable de vainas del html \r",
+        "imagen":"PHP.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "php",
+        "pregunta": "para que se usa el die",
+        "respuesta": "se usa la función die() en condicionales para realizar un manejo sobre errores.",
+        "incorrecta1": "se usa la función die() en codigo js para realizar un manejo sobre variables.",
+        "incorrecta2": "se usa el condicional die para acabar un codigo",
+        "incorrecta3": "se usa en html para matar a alguien \r",
+        "imagen":"PHP.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "php",
+        "pregunta": "¿diferencia de html y php?",
+        "respuesta": "uno es un lenguaje de programacion y el otro de marcado",
+        "incorrecta1": "uno es feo yl otro usa div",
+        "incorrecta2": "uno empieza con un hola mundo y el otro no",
+        "incorrecta3": "el php sirve un if y en html solo un else \r",
+        "imagen":"PHP.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "php",
+        "pregunta": "¿como se puede enlazar un php en html?",
+        "respuesta": "se manda 'info' desde un formulario",
+        "incorrecta1": "con un script",
+        "incorrecta2": "colocando .php en la terminacion de ",
+        "incorrecta3": "meterle vainas al html hasta que sirva \r",
+        "imagen":"PHP.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "php",
+        "pregunta": "¿cuales son los tipos de variables?",
+        "respuesta": "boolean, integer, string",
+        "incorrecta1": "echo, if, else",
+        "incorrecta2": "if,else, if else",
+        "incorrecta3": "div,div,div\r",
+        "imagen":"PHP.png",
+        "objectFit": "cover"
+    }
+]
